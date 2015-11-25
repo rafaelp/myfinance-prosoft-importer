@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+ruby '2.2.3'
+
+gem 'awesome_print', '1.2.0'
+gem 'thor', '0.19.1'
+gem 'qif', '1.1.2'
+gem 'mini_portile', '0.6.0'
+gem 'rest-client', '1.7.2'
+gem 'pry', '0.10.3'
+gem 'xml-simple', '1.1.5'
